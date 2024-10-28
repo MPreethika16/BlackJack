@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+h2 {
+  font-size: 70px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+button {
+  width: 200px;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: grab;
+}
+#increment {
+  background-color: rosybrown;
+}
+#save-btn {
+  background-color: cornflowerblue;
+}
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
