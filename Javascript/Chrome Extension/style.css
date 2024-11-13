@@ -1,0 +1,32 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 10px;
+  min-width: 400px;
+}
+#input-el {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ae445a;
+  margin-bottom: 10px;
+}
+button {
+  background-color: #ae445a;
+  color: white;
+  padding: 10px 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
+
+ul {
+  margin-top: 20px;
+  padding: 0px;
+  list-style: none;
+}
+li {
+  margin: 5px;
+}
+a {
+  color: #ae445a;
+}
