@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+button{
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#start-btn{
+    background-color: darkolivegreen;
+}
+#new-btn{
+    background-color: darkslategray;
+}
